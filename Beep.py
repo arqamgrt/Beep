@@ -1,3 +1,4 @@
+#importing winsound module.
 import winsound
 import time
 print("Hello! Welcome to this little effert by Arqam Mehmood.")
